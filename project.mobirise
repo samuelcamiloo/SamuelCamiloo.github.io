@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "Contact.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -715,7 +715,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-size": "32px",
@@ -724,7 +724,7 @@
           },
           "_anchor": "form1-g",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
