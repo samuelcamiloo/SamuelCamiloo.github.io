@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -481,6 +482,13 @@ h6,
 #contacts1-a STRONG {
   color: #ffffff;
 }
+#contacts1-a P {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
 
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
@@ -553,6 +561,18 @@ h6,
 #content2-q SPAN {
   font-size: 32px;
   font-family: 'Montserrat', sans-serif;
+  color: #000000;
+}
+#content7-n P {
+  text-align: left;
+  font-size: 16px;
+  color: #000000;
+}
+#content7-n DIV {
+  text-align: left;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
 }
 #features7-r .card-subtitle {
   color: #bcbcbc;
@@ -563,9 +583,18 @@ h6,
 }
 #features7-r P {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+}
+#features7-r H4 {
+  color: #000000;
 }
 #contacts1-a STRONG {
   color: #ffffff;
+}
+#contacts1-a P {
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
 }
 #ext_menu-c .hide-buttons .nav-btn {
   display: none !important;
