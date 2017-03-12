@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -479,11 +480,25 @@ h6,
 #header1-j .mbr-section-lead {
   color: #ffffff;
 }
-#contacts1-a STRONG {
+#content2-19 SPAN {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
   color: #ffffff;
 }
-#contacts1-a P {
-  font-size: 16px;
+#social-buttons4-1c .mbr-section-title,
+#social-buttons4-1c .btn-social {
+  color: #fff;
+}
+#contacts3-1b STRONG {
+  color: #ffffff;
+}
+#contacts3-1b H4 {
+  color: #ffffff;
+}
+#contacts3-1b SPAN {
+  color: #ffffff;
+}
+#contacts3-1b .btn {
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -550,13 +565,6 @@ h6,
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#msg-box5-m P {
-  color: #ffffff;
-  font-size: 20px;
-}
-#msg-box5-m H3 {
-  color: #ffffff;
 }
 #content2-q SPAN {
   font-size: 32px;
@@ -667,6 +675,7 @@ h6,
 #contacts1-a STRONG {
   color: #ffffff;
 }
+
 #ext_menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -727,4 +736,11 @@ h6,
 #ext_menu-z .link[aria-expanded="true"],
 #ext_menu-z .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#content2-16 SPAN {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+}
+#gallery2-15 .mbr-gallery-item > div > span {
+  color: #000000;
 }
