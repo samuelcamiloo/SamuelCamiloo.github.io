@@ -480,6 +480,11 @@ h6,
 #header1-j .mbr-section-lead {
   color: #ffffff;
 }
+#content8-1f .mbr-section-title,
+#content8-1f p {
+  text-align: right;
+  color: #fff;
+}
 #content2-19 SPAN {
   font-family: 'Montserrat', sans-serif;
   font-size: 24px;
