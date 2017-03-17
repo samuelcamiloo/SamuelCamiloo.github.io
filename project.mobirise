@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Introduction.html",
+    "currentPage": "Gallery.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -509,7 +509,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lego-logo-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/robot-logo-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -878,10 +878,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/robot-logo-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -889,8 +892,7 @@
               "name": "camera",
               "family": "et-line",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Samuel Camilo</a>",
@@ -1078,10 +1080,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/robot-logo-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1089,8 +1094,7 @@
               "name": "camera",
               "family": "et-line",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Samuel Camilo</a>",
@@ -1169,11 +1173,101 @@
                 "thumb": "@PROJECT_PATH@/assets/images/96321458710-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/96321458710-2000x1333.jpg",
                 "caption": "Miami Dade County Public Schools Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/iron-man-logo-recreation-2000x2975-800x1190.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iron-man-logo-recreation-2000x2975.jpg",
+                "caption": "Iron Man Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flash-logo-recreation-2000x1600-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-logo-recreation-2000x1600.jpg",
+                "caption": "Flash Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-recreation-2000x1182-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batman-logo-recreation-2000x1182.jpg",
+                "caption": "Batman Logo",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-rogue-one-2000x666-800x266.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-rogue-one-2000x666.jpg",
+                "caption": "StarWars Rouge One",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-einstein-cube-2000x1745-800x698.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-einstein-cube-2000x1745.jpg",
+                "caption": "Albert Einstein Cube",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tim-the-robot-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tim-the-robot-2000x2588.jpg",
+                "caption": "Tim the Robot",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/trump-with-lips-2000x1509-800x603.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trump-with-lips-2000x1509.jpg",
+                "caption": "Trump with Lips",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clinton-with-eyes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/clinton-with-eyes-2000x1333.jpg",
+                "caption": "Clinton with Eyes",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-trek-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-trek-2000x1125.jpg",
+                "caption": "Star Trek",
                 "active": true
               }
             ],
             "spacing": 0,
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
