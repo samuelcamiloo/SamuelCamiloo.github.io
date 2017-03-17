@@ -746,6 +746,9 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 32px;
 }
+#content2-16 P {
+  font-size: 24px;
+}
 #gallery2-15 .mbr-gallery-item > div > span {
   color: #000000;
 }
