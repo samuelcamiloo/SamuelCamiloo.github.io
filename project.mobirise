@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Gallery.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -108,7 +108,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/robot-logo-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/youtube-logo-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -146,7 +146,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/boards-2000x1337.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-banner-2000x416.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -166,40 +166,38 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Come On In</a>"
         },
         {
-          "_inherit": "content5",
           "_styles": {
             ".mbr-section-title, p": {
-              "text-align": "right",
               "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-1f",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1h",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/9H_1b11ZYXM?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": true
           },
-          "title": "One Of &nbsp;My Videos",
-          "caption": ""
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Out My Intro</a>"
         },
         {
           "_tags": [
@@ -347,7 +345,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/robot-logo-265x265.jpg",
+              "src": "@PROJECT_PATH@/assets/images/youtube-logo-265x265.jpg",
               "class": "card-img-top",
               "width": 265,
               "link": "",
