@@ -472,13 +472,7 @@ h6,
 }
 #ext_menu-12 .link[aria-expanded="true"],
 #ext_menu-12 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#header1-j .mbr-section-title {
-  color: #ffffff;
-}
-#header1-j .mbr-section-lead {
-  color: #ffffff;
+  color: #ffffff!important;
 }
 #msg-box8-1h .mbr-section-title,
 #msg-box8-1h p {
@@ -812,7 +806,7 @@ h6,
 }
 #ext_menu-1i .link[aria-expanded="true"],
 #ext_menu-1i .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #msg-box4-1o H3 {
   color: #ffffff;
