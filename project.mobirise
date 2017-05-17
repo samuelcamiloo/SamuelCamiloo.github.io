@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Thousand Million Reasons.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -842,8 +842,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
+              "src": "@PROJECT_PATH@/assets/images/youtube-logo-128x128.jpg",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -852,7 +857,6 @@
               "family": "et-line",
               "link": "",
               "size": 0,
-              "active": true,
               "color": "#ffffff"
             }
           },
@@ -1045,8 +1049,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
+              "src": "@PROJECT_PATH@/assets/images/youtube-logo-128x128.jpg",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1055,7 +1064,6 @@
               "family": "et-line",
               "link": "",
               "size": 0,
-              "active": true,
               "color": "#ffffff"
             }
           },
